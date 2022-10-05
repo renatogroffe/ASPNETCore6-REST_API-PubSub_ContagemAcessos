@@ -1,2 +1,2 @@
-# ASPNETCore6-REST_API-PubSub_ContagemAcessos
-Em breve
+# Dapr-DotNet6-PubSub_ContagemAcessos
+Exemplo de APIs REST criadas com o .NET 6 + ASP.NET Core para contagem de acessos e consumo destas informações, utilizando building block de Pub/sub do projeto Dapr (Distributed Application Runtime). Inclui exemplos em YAML para comunicação entre aplicações com componentes utilizando Apache Kafka, Azure Service Bus (Tópico) e RabbitMQ (Exchange + Fila).
